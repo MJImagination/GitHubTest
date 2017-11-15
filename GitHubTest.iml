@@ -4,6 +4,7 @@
     <output url="file://$MODULE_DIR$/../GitHubTest/target/classes" />
     <output-test url="file://$MODULE_DIR$/../GitHubTest/target/test-classes" />
     <content url="file://$MODULE_DIR$/../GitHubTest">
+      <sourceFolder url="file://$MODULE_DIR$/../GitHubTest/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../GitHubTest/target" />
     </content>
     <orderEntry type="inheritedJdk" />
